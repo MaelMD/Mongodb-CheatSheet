@@ -1,7 +1,7 @@
 # Mongodb-CheatSheet
 
 ### Table of Contents
--[Connect Mongodb Shell](#installation-instructions)<br>
+**[Connect Mongodb Shell](#installation-instructions)**<br>
 **[2. Helpers](#usage-instructions)**<br>
 **[3. CRUD](#troubleshooting)**<br>
 **[4. Databases and Collections](#compatibility)**<br>
